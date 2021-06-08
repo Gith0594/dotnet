@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = HelloWorldApp.Web
+build_property.RootNamespace = HelloWorldApp.Web
+build_property.ProjectDir = D:\dotnet-1\HelloWorldApp\HelloWorldApp.Web\
+build_property.RazorLangVersion = 5.0
+build_property.MSBuildProjectDirectory = D:\dotnet-1\HelloWorldApp\HelloWorldApp.Web
+build_property.DesignTimeBuild = 
+build_property._RazorReferenceAssemblyTagHelpersOutputPath = D:\dotnet-1\HelloWorldApp\HelloWorldApp.Web\obj\releasell\net6.0\RazorTagHelper.refs.out.cache
+build_property._RazorSourceGeneratorDebug = 
+build_property._RazorSourceGeneratorLog = 
+
+[D:/dotnet-1/HelloWorldApp/HelloWorldApp.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Home\Index.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\dotnet-1\HelloWorldApp\HelloWorldApp.Web\obj\releasell\net6.0\Razor\Views\Home\Index.cshtml.g.cs
+build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dotnet-1/HelloWorldApp/HelloWorldApp.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Home\Privacy.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\dotnet-1\HelloWorldApp\HelloWorldApp.Web\obj\releasell\net6.0\Razor\Views\Home\Privacy.cshtml.g.cs
+build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dotnet-1/HelloWorldApp/HelloWorldApp.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Shared\Error.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\dotnet-1\HelloWorldApp\HelloWorldApp.Web\obj\releasell\net6.0\Razor\Views\Shared\Error.cshtml.g.cs
+build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dotnet-1/HelloWorldApp/HelloWorldApp.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Shared\_Layout.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\dotnet-1\HelloWorldApp\HelloWorldApp.Web\obj\releasell\net6.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dotnet-1/HelloWorldApp/HelloWorldApp.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\Shared\_ValidationScriptsPartial.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\dotnet-1\HelloWorldApp\HelloWorldApp.Web\obj\releasell\net6.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dotnet-1/HelloWorldApp/HelloWorldApp.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\_ViewImports.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\dotnet-1\HelloWorldApp\HelloWorldApp.Web\obj\releasell\net6.0\Razor\Views\_ViewImports.cshtml.g.cs
+build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dotnet-1/HelloWorldApp/HelloWorldApp.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Views\_ViewStart.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\dotnet-1\HelloWorldApp\HelloWorldApp.Web\obj\releasell\net6.0\Razor\Views\_ViewStart.cshtml.g.cs
+build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
+build_metadata.AdditionalFiles.CssScope =
